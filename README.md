@@ -4,7 +4,7 @@ A method for detecting deepfakes using the Xception Network architecture was sug
 ## Dataset
 The processed dataset could be downloaded from this link: https://seafile.idmt.fraunhofer.de/u/d/b639276d15b9423bb11f/
 
-Here are the steps to follow to train a model for deepfake detection:
+## Here are the steps to follow to train a model for deepfake detection:
 
 1. Extract frames from videos using the "Rename and Frame Extraction.ipynb" file. Simply add the path to the directory where the videos are stored.
  
